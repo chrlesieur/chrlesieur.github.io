@@ -1,0 +1,433 @@
+.participant
+{
+	padding-top: 5px;
+}
+
+.legalMention
+{
+	padding-top: 10%;
+}
+
+.insta
+{
+	padding-top: 10%;
+	padding-right: 10%;
+}
+
+.facebook
+{
+	padding-top: 10%;
+	padding-right: 10%;
+}
+
+.twitter
+{
+	padding-top: 10%;
+	padding-right: 10%;
+}
+
+.emailtext
+{
+	padding-top: 10%;
+}
+.photo1 {
+	padding-top: 65pt;
+}
+@media (min-width: 992px) 
+{
+	.maps2
+	{
+		display: none;
+	}
+}
+
+
+@media (min-width: 1200px)
+{
+	.maps2
+	{
+		display: none;
+	}
+}
+
+@media (max-width: 992px)
+{
+	.photo 
+	{
+		display :none; 
+	}
+}
+
+
+.jumbotron
+{
+	background: none ;
+	padding-top: 0;
+
+}
+
+body
+{
+	padding-top: 50px;
+	background-attachment: fixed;
+}
+
+
+
+
+h1, h2, h3, h5 {
+	font-family: 'Permanent Marker', cursive; 
+}
+
+#comment
+{
+	background-color: #D72D5C;
+	opacity: 0.85;
+	background-image: url(45-degree-fabric-dark.png);
+}
+
+.jumboimage 
+{
+	opacity: 1;
+}
+
+h2, h3, .date, .edition
+{
+
+	font-family: "Permanent Marker", cursive;
+	color: white;
+}
+
+.grosset
+{
+	font-size: 5.5vw;
+	color: white;
+	font-family: 'Permanent Marker', cursive;
+	padding-top: 2%;
+	padding-left: 5%;
+	color: white;
+	text-shadow: 2px 0 0 black, 2px 2px 0 black, 0 2px 0 black, -2px 2px 0 black, -2px 0 0 black, -2px -2px 0 black, 0 -2px 0 black, 2px -2px 0 black;
+	text-align: center;
+}
+
+.date
+{
+	padding-top: 15%;
+	padding-left: 20%;
+	font-size: 3vw;
+	text-shadow: 2px 0 0 black, 2px 2px 0 black, 0 2px 0 black, -2px 2px 0 black, -2px 0 0 black, -2px -2px 0 black, 0 -2px 0 black, 2px -2px 0 black;
+	color: white;
+}
+
+
+	.header-ban
+	{
+		height: 100vh;
+		background-image: url(http://image.noelshack.com/fichiers/2018/37/5/1536940258-fire-fireplace-legs-503228.jpg);
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: top ;
+	}
+
+@media (max-width: 576px)
+{
+	.header-ban
+	{
+		height: 60vh;
+		background-size: contain;
+
+	}
+	.maps1
+	{
+		display: none;
+
+
+	}
+
+	.journee1
+	{
+		display: none;
+	}
+
+	.grosset
+	{
+		font-size: 5.5vw + 20px;
+		color: white;
+		font-family: 'Stone', cursive;
+		
+		color: white;
+		text-shadow: 2px 0 0 black, 2px 2px 0 black, 0 2px 0 black, -2px 2px 0 black, -2px 0 0 black, -2px -2px 0 black, 0 -2px 0 black, 2px -2px 0 black;
+	}
+
+	
+
+	.travail1
+	{
+		color: white;
+	}
+}
+
+@media (max-width: 767px)
+{
+	.maps2
+	{
+		display: none;
+	}
+	.grosset
+	{
+		font-size: 5.5vw;
+		color: white;
+		font-family: 'Permanent Marker', cursive;
+		padding-top: 0%;
+		text-align: center;
+		color: white;
+		text-shadow: 2px 0 0 black, 2px 2px 0 black, 0 2px 0 black, -2px 2px 0 black, -2px 0 0 black, -2px -2px 0 black, 0 -2px 0 black, 2px -2px 0 black;
+	}
+
+	
+
+	.travail1
+	{
+		color: white;
+	}
+	#header-ban
+	{
+		height: 100vh;
+		margin-bottom: 0;
+
+	}
+	.sectionmeli
+	{
+		padding-top: 0%;
+		margin-top: -110%;
+
+	}
+	.imagemedia
+	{
+		display: none;
+	}
+	
+
+}
+
+
+p
+{
+	font-family: sans-serif;
+	font-size: 16pt;
+	color : white;
+}
+h5 {
+	font-size: 18pt;
+	color : white;
+}
+
+/*modif taille police*/
+h3 {
+	font-size: 40pt;
+	color : white;
+}
+p{
+	line-height: 25px;
+}
+
+.lead {
+	font-size: 25pt;
+}
+.logo
+{
+	position:absolute;
+	left: 73%;
+	top : 47%;
+}
+
+.sont
+{
+	font-size: 40pt;
+}
+
+.navdi2
+{
+	margin: 15%;
+}
+
+.journee1
+{
+	font-size: 2vw;
+	font-family: "Permanent Marker", cursive;
+}
+
+.pad
+{
+	padding-left: 3vw;
+	font-size: 1.1vw;
+
+}
+
+
+.pad1
+{
+	padding-left: 2vw;
+	font-size: 1.1vw;
+}
+
+.pad2
+{
+	padding-left: 2vw;
+	font-size: 1.1vw;
+}
+.pad3
+{
+	padding-left: 2vw;
+	font-size: 1.1vw;
+}
+
+
+.cardnone, #header-ban {
+	border: none;
+}
+.lien {
+	text-align: center;
+}
+
+.edition
+{
+	font-family: "Stone";
+	font-size: 3vw;
+	color: white;
+	padding-left: 75%;
+	text-shadow: 2px 0 0 black, 2px 2px 0 black, 0 2px 0 black, -2px 2px 0 black, -2px 0 0 black, -2px -2px 0 black, 0 -2px 0 black, 2px -2px 0 black;
+}
+
+
+section {
+	
+	padding-bottom: 150pt;
+}
+
+
+.sectionmeli
+{
+	background-color: #D72D5C;
+	padding-bottom: 5%;
+	background-image: url(45-degree-fabric-dark.png);
+	color : white;
+	
+}	
+/*meli modif 52 en 45*/
+
+
+#ils
+{
+	background-color: #D72D5C;
+	background-image: url(45-degree-fabric-dark.png);
+}
+
+@media all and (max-width: 1200px){
+
+	section {
+		padding-top: 100pt;
+		padding-bottom: 100pt;
+	}
+	.section1 {
+		padding-top: 48%;
+	}
+}
+
+
+}
+@media screen and (max-width: 768px){
+	
+	section {
+		padding-top: 80pt;
+		padding-bottom: 80pt;
+	}
+	.section1 {
+		padding-top: 30%;
+	}
+}
+@media screen and (max-width: 576px){
+
+section {
+	padding-top: 60pt;
+	padding-bottom: 60pt;
+}
+.section1 {
+	padding-top: 20%;
+}
+}
+
+
+@media all and (max-width: 576px) 
+{
+	.imagemedia 
+	{
+		display: none;
+	}
+}
+.modal-dialog {
+	min-height: 60%;
+	min-width: 49%;
+}
+
+.imagefond:hover {
+	filter: brightness(90%);
+}
+.img-tete {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	width: 5vw;
+	height: 5vw;
+}
+#parle
+{
+
+	background-color: #D72D5C;
+	opacity: 0.85;
+	background-image: url(45-degree-fabric-dark.png);
+
+}
+
+.organizer
+{
+	background-color: #D72D5C;
+	background-image: url(45-degree-fabric-dark.png);
+}
+.card-map
+{
+	border: 0;
+}
+
+.en
+{
+
+	background-color: #D72D5C;
+	background-image: url(45-degree-fabric-dark.png);
+
+}
+.socks
+{
+	height: 100vh;
+}
+@media (max-width: 768px)
+{
+	.sectionmeli
+	{
+		margin-top: -40%;
+
+	}
+	#pourquoi
+	{
+		padding-top: 0;
+	}
+	.maps2
+	{
+		display: none;
+	}
+}
+.tt
+{
+	background-color: #D72D5C;
+	color:white;
+}

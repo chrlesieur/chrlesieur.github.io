@@ -1,0 +1,73 @@
+
+
+
+h2
+{
+
+	font-family: "Permanent Marker", cursive;
+	color : white;
+}
+.imagefond:hover {
+	filter: brightness(90%);
+}
+.btnGalerie
+{
+	border-radius: 30px;
+	width: 250px;
+	height: 35px;
+}
+.journee1
+{
+	font-size: 2vw;
+	font-family: 'Permanent Marker', cursive;
+}
+.pad
+{
+	padding-left: 3vw;
+	font-size: 1.1vw;
+}
+
+.pad1
+{
+	padding-left: 2vw;
+	font-size: 1.1vw;
+}
+
+.pad2
+{
+	padding-left: 2vw;
+	font-size: 1.1vw;
+}
+.pad3
+{
+	padding-left: 2vw;
+	font-size: 1.1vw;
+}
+.modal-dialog {
+	min-height: 60%;
+	min-width: 40%;
+
+}
+.page {
+	background-color: #D72D5C;
+	
+	background-image: url(45-degree-fabric-dark.png);
+}
+.title1 {
+	padding-top: 50pt;
+	padding-bottom: 20pt;
+	padding-left: 20pt;
+}
+footer {
+	background-color: #D72D5C;
+	background-image: url(45-degree-fabric-dark.png);
+}
+.img-tete
+{
+	width: 5vw;
+	height: 5vw;
+}
+
+
+
+
