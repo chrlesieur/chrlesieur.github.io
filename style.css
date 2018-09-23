@@ -169,10 +169,7 @@ h2, h3, .date, .edition
 
 @media (max-width: 767px)
 {
-	.maps2
-	{
-		display: none;
-	}
+	
 	.grosset
 	{
 		font-size: 5.5vw;
@@ -421,10 +418,7 @@ section {
 	{
 		padding-top: 0;
 	}
-	.maps2
-	{
-		display: none;
-	}
+	
 }
 .tt
 {
